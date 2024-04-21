@@ -124,3 +124,8 @@ fn main() {
 // run with `./dtype`
 ```
 
+### [Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions) <a href="#functions" id="functions"></a>
+
+```
+// Some code
+```
